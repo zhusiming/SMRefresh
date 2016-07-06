@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SMRefreshImageName</key>
+	<string>loading@2x.png</string>
+	<key>SMRefreshLoadingImageNames</key>
+	<array>
+		<string>loading_1.png</string>
+		<string>loading_2.png</string>
+		<string>loading_3.png</string>
+		<string>loading_2.png</string>
+		<string>loading_1.png</string>
+		<string>loading_4.png</string>
+		<string>loading_5.png</string>
+		<string>loading_4.png</string>
+	</array>
+	<key>SMRefreshHeaderTitle</key>
+	<string>下拉刷新...</string>
+	<key>SMRefreshHeaderAlertTitle</key>
+	<string>松手刷新...</string>
+	<key>SMRefreshHeaderLoadingTitle</key>
+	<string>正在刷新...</string>
+	<key>SMRefreshHeaderLoadingSuccessTitle</key>
+	<string>刷新成功...</string>
+	<key>SMRefreshHeaderLoadingErrorTitle</key>
+	<string>刷新失败...</string>
+</dict>
+</plist>
